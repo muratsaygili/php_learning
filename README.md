@@ -1,2 +1,3 @@
 # php_works
-learning php 
+Learning pHp 
+Bir kitaptan 0' dan başlayarak yaptığım çalışmaları içerir..
